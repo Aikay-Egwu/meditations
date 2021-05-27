@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Isolate the tailwind things
+meditate/static/node_modules
+bin/
+include/
+lib/
